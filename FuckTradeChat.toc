@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: Fuck Trade Chat
+## Notes: Honestly, fuck Trade Chat.
+## Author: Keyboardturner
+## Version: 0.0.1
+
+FuckTradeChat.lua

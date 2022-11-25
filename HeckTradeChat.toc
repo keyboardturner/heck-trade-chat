@@ -1,7 +1,7 @@
-## Interface: 80300
-## Title: Fuck Trade Chat
-## Notes: Honestly, fuck Trade Chat.
+## Interface: 100002
+## Title: Heck Trade Chat
+## Notes: Honestly, heck Trade Chat.
 ## Author: Keyboardturner
-## Version: 0.0.1
+## Version: 0.0.2
 
-FuckTradeChat.lua
+HeckTradeChat.lua

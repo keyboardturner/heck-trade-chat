@@ -1,7 +1,7 @@
-## Interface: 100002
+## Interface: 100007
 ## Title: Heck Trade Chat
 ## Notes: Honestly, heck Trade Chat.
 ## Author: Keyboardturner
-## Version: 0.0.2
+## Version: 0.0.4
 
 HeckTradeChat.lua

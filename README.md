@@ -8,5 +8,3 @@ honestly just heck trade chat
 <p>I was gonna name this project something else but I got scared of profanity and if the mods would strike it down so I just renamed it</p>
 <p>&nbsp;</p>
 <p>A link to my discord for addon projects and other things can be found <a href="https://discord.gg/tA4rrmjPp8">here</a>.</p>
-
-A link to my discord for addon projects and other things can be found [here](https://discord.gg/tA4rrmjPp8).

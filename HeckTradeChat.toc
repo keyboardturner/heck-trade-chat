@@ -1,4 +1,4 @@
-## Interface: 100207
+## Interface: 100207, 110000, 110002
 ## Title: Heck Trade Chat
 ## Notes: Honestly, heck Trade Chat.
 ## IconTexture: Interface/Addons/HeckTradeChat/HeckTradeChat.blp

@@ -1,9 +1,33 @@
 ## Interface: 110002, 110005
 ## Title: Heck Trade Chat
-## Notes: Honestly, heck Trade Chat.
+## Notes: Automatically leave Trade and Services channels on any character with this addon enabled.
 ## IconTexture: Interface/Addons/HeckTradeChat/HeckTradeChat.blp
 ## Author: Keyboardturner
 ## Version: @project-version@
+## Title-enUS: Heck Trade Chat
+## Notes-enUS: Automatically leave Trade and Services channels on any character with this addon enabled.
+## Title-frFR: Heck Trade Chat
+## Notes-frFR: Quittez automatiquement les canaux Commerce et Services sur tout personnage avec cet addon activé.
+## Title-esES: Heck Trade Chat
+## Notes-esES: Salga automáticamente de los canales de Comercio y Servicios en cualquier personaje con este addon activado.
+## Title-esMX: Heck Trade Chat
+## Notes-esMX: Salga automáticamente de los canales de Comercio y Servicios en cualquier personaje con este addon activado.
+## Title-deDE: Heck Trade Chat
+## Notes-deDE: Verlassen Sie automatisch die Handels- und Dienstleistungskanäle auf jedem Charakter, bei dem dieses Addon aktiviert ist.
+## Title-itIT: Heck Trade Chat
+## Notes-itIT: Esci automaticamente dai canali di Commercio e Servizi su qualsiasi personaggio con questo addon abilitato.
+## Title-ptBR: Heck Trade Chat
+## Notes-ptBR: Saia automaticamente dos canais de Comércio e Serviços em qualquer personagem com este addon ativado.
+## Title-ruRU: Выход из торгового чата (Heck Trade Chat)
+## Notes-ruRU: Автоматически выходите из каналов Торговли и Услуг на любом персонаже с включённым этим аддоном.
+## Title-koKR: 거래 채팅 나가기 (Heck Trade Chat)
+## Notes-koKR: 이 애드온이 활성화된 모든 캐릭터에서 거래 및 서비스 채널을 자동으로 나갑니다.
+## Title-zhCN: 退出交易聊天 (Heck Trade Chat)
+## Notes-zhCN: 启用此插件时，自动退出任何角色的交易和服务频道。
+## Title-zhTW: 退出交易聊天 (Heck Trade Chat)
+## Notes-zhTW: 啟用此插件時，自動退出任何角色的交易和服務頻道。
+
+
 ## X-Curse-Project-ID: 360603
 ## X-WoWI-ID: 26486
 ## X-Wago-ID: e56nJ569

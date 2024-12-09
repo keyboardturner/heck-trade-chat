@@ -1,3 +1,7 @@
+# 0.1.4
+
+Added Services, make work for non-english client localizations
+
 # 0.1.3
 
 11.0.5 toc update

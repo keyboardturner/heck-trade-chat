@@ -1,4 +1,4 @@
-## Interface: 110002, 110005
+## Interface: 110005, 110007
 ## Title: Heck Trade Chat
 ## Notes: Automatically leave Trade and Services channels on any character with this addon enabled.
 ## IconTexture: Interface/Addons/HeckTradeChat/HeckTradeChat.blp

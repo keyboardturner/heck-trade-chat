@@ -27,6 +27,18 @@
 ## Title-zhTW: 退出交易聊天 (Heck Trade Chat)
 ## Notes-zhTW: 啟用此插件時，自動退出任何角色的交易和服務頻道。
 
+## Category-enUS: Chat
+## Category-deDE: Chat
+## Category-esES: Chat
+## Category-esMX: Chat
+## Category-frFR: Discussion
+## Category-itIT: Chat
+## Category-koKR: 대화
+## Category-ptBR: Bate-papo
+## Category-ruRU: Чат
+## Category-zhCN: 聊天
+## Category-zhTW: 對話
+
 
 ## X-Curse-Project-ID: 360603
 ## X-WoWI-ID: 26486
